@@ -25,4 +25,5 @@ This project is a 3D interactive simulation of our Solar System built using **Re
 git clone https://github.com/your-username/solar-system.git
 cd solar-system
 npm install
+npm install three @react-three/fiber @react-three/drei leva
 npm run dev
