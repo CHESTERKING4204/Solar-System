@@ -33,3 +33,8 @@ npm run dev
 ```bash
 https://drive.google.com/drive/folders/1eFETj0bpEwY4jYwUkAn48s6uo1US5tyW?usp=sharing
 ```
+
+## Photo 
+![1](https://github.com/user-attachments/assets/802fc004-da03-493a-a993-3a0ca827182d)
+![3](https://github.com/user-attachments/assets/b58b6536-5b50-4d77-8577-8fb28b15ab3d)
+![2](https://github.com/user-attachments/assets/4fc7a2f6-ced9-441c-9c75-4b1a02d561ac)
