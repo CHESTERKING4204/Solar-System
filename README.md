@@ -20,9 +20,8 @@ This project is a 3D interactive simulation of our Solar System built using **Re
 - [Leva](https://github.com/pmndrs/leva) – for interactive control panels
 
 ## 📦 Installation
-
+First Download or fork the repo as you like and then follow the next few steps in the terminal of your IDE.
 ```bash
-git clone https://github.com/your-username/solar-system.git
 cd solar-system
 npm install
 npm install three @react-three/fiber @react-three/drei leva
